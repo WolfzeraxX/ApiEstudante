@@ -1,0 +1,588 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\controller\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\controller\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\dtos\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\dtos\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\application\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:application\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\domain\\repositories\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:domain\\repositories\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\persistence\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\persistence\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\controller\\estudantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\controller\\estudantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\application\\services\\estudanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:application\\services\\estudanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\application\\services\\avaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:application\\services\\avaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\application\\services\\icursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:application\\services\\icursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\domain\\entities\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:domain\\entities\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\domain\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:domain\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\application\\services\\iestudanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:application\\services\\iestudanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\domain\\repositories\\iestudanterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:domain\\repositories\\iestudanterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\persistence\\repositories\\estudanterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\persistence\\repositories\\estudanterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\dtos\\estudantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\dtos\\estudantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\domain\\entities\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:domain\\entities\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\migrations\\20240823021222_newschemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\migrations\\20240823021222_newschemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\migrations\\20240822235326_correcoesmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\migrations\\20240822235326_correcoesmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\migrations\\20240822231222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\migrations\\20240822231222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\persistence\\repositories\\avaliacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\persistence\\repositories\\avaliacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\controller\\avaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\controller\\avaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\dtos\\avaliacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\dtos\\avaliacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\application\\services\\iavaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:application\\services\\iavaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\domain\\repositories\\iavaliacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:domain\\repositories\\iavaliacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\dtos\\createavaliacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\dtos\\createavaliacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\dtos\\createcursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\dtos\\createcursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\api\\dtos\\createestudantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:api\\dtos\\createestudantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|c:\\users\\italo\\onedrive\\documentos\\projetos\\cursoestudanteapi\\cursoestudanteapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E2239E7-89A3-476A-A7EF-47CDD1D4BF09}|CursoEstudanteAPI.csproj|solutionrelative:cursoestudanteapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\Controller\\CursoController.cs",
+              "RelativeDocumentMoniker": "API\\Controller\\CursoController.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\Controller\\CursoController.cs",
+              "RelativeToolTip": "API\\Controller\\CursoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:37:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursoService.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\CursoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CursoService.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\CursoService.cs",
+              "RelativeToolTip": "Application\\Services\\CursoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:34:04.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Persistence\\Repositories\\CursoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\CursoRepository.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Persistence\\Repositories\\CursoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\CursoRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:34:39.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstudanteService.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\EstudanteService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EstudanteService.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\EstudanteService.cs",
+              "RelativeToolTip": "Application\\Services\\EstudanteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:31:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:38:40.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Entities\\Curso.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Curso.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Entities\\Curso.cs",
+              "RelativeToolTip": "Domain\\Entities\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:31:03.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Entities\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Avaliacao.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Entities\\Avaliacao.cs",
+              "RelativeToolTip": "Domain\\Entities\\Avaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:32:11.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoDto.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\CursoDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\CursoDto.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\CursoDto.cs",
+              "RelativeToolTip": "API\\DTOs\\CursoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:24:22.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstudanteController.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\Controller\\EstudanteController.cs",
+              "RelativeDocumentMoniker": "API\\Controller\\EstudanteController.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\Controller\\EstudanteController.cs",
+              "RelativeToolTip": "API\\Controller\\EstudanteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:37:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AvaliacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\AvaliacaoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AvaliacaoService.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\AvaliacaoService.cs",
+              "RelativeToolTip": "Application\\Services\\AvaliacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:33:21.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Repositories\\ICursoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\ICursoRepository.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Repositories\\ICursoRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\ICursoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:32:54.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Infrastructure\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:27:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEstudanteService.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\IEstudanteService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IEstudanteService.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\IEstudanteService.cs",
+              "RelativeToolTip": "Application\\Services\\IEstudanteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:59:04.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICursoService.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\ICursoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ICursoService.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\ICursoService.cs",
+              "RelativeToolTip": "Application\\Services\\ICursoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:13:11.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EstudanteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Persistence\\Repositories\\EstudanteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\EstudanteRepository.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Persistence\\Repositories\\EstudanteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\EstudanteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:35:53.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEstudanteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Repositories\\IEstudanteRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IEstudanteRepository.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Repositories\\IEstudanteRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IEstudanteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:33:29.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Entities\\Estudante.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Estudante.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Entities\\Estudante.cs",
+              "RelativeToolTip": "Domain\\Entities\\Estudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:31:47.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AvaliacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\AvaliacaoDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\AvaliacaoDto.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\AvaliacaoDto.cs",
+              "RelativeToolTip": "API\\DTOs\\AvaliacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:25:15.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EstudanteDto.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\EstudanteDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\EstudanteDto.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\EstudanteDto.cs",
+              "RelativeToolTip": "API\\DTOs\\EstudanteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:24:41.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:40:59.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240822231222_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Migrations\\20240822231222_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240822231222_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Migrations\\20240822231222_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240822231222_InitialCreate.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:40:46.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T22:47:17.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T01:28:40.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240823021222_NewSchemas.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Migrations\\20240823021222_NewSchemas.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240823021222_NewSchemas.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Migrations\\20240823021222_NewSchemas.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240823021222_NewSchemas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:12:36.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240822235326_CorrecoesMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Migrations\\20240822235326_CorrecoesMigrations.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240822235326_CorrecoesMigrations.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Migrations\\20240822235326_CorrecoesMigrations.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240822235326_CorrecoesMigrations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:40:45.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AvaliacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Persistence\\Repositories\\AvaliacaoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\AvaliacaoRepository.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Persistence\\Repositories\\AvaliacaoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\AvaliacaoRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAjwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:36:05.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAvaliacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Repositories\\IAvaliacaoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IAvaliacaoRepository.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Domain\\Repositories\\IAvaliacaoRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IAvaliacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:33:48.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAvaliacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\IAvaliacaoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IAvaliacaoService.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Application\\Services\\IAvaliacaoService.cs",
+              "RelativeToolTip": "Application\\Services\\IAvaliacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:13:46.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AvaliacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\Controller\\AvaliacaoController.cs",
+              "RelativeDocumentMoniker": "API\\Controller\\AvaliacaoController.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\Controller\\AvaliacaoController.cs",
+              "RelativeToolTip": "API\\Controller\\AvaliacaoController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vzsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:38:17.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateAvaliacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\CreateAvaliacaoDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\CreateAvaliacaoDto.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\CreateAvaliacaoDto.cs",
+              "RelativeToolTip": "API\\DTOs\\CreateAvaliacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:40:00.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateCursoDto.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\CreateCursoDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\CreateCursoDto.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\CreateCursoDto.cs",
+              "RelativeToolTip": "API\\DTOs\\CreateCursoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:39:13.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateEstudanteDto.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\CreateEstudanteDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\CreateEstudanteDto.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\API\\DTOs\\CreateEstudanteDto.cs",
+              "RelativeToolTip": "API\\DTOs\\CreateEstudanteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:39:35.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:36:58.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CursoEstudanteAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\CursoEstudanteAPI.csproj",
+              "RelativeDocumentMoniker": "CursoEstudanteAPI.csproj",
+              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Projetos\\CursoEstudanteAPI\\CursoEstudanteAPI.csproj",
+              "RelativeToolTip": "CursoEstudanteAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T22:27:30.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

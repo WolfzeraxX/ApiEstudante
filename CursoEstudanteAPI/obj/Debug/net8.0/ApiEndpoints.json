@@ -1,0 +1,255 @@
+[
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.AvaliacaoController",
+    "Method": "GetAll",
+    "RelativePath": "api/avaliacao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.AvaliacaoController",
+    "Method": "Create",
+    "RelativePath": "api/avaliacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "avaliacaoDto",
+        "Type": "CursoEstudanteAPI.API.DTOs.AvaliacaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.AvaliacaoController",
+    "Method": "GetById",
+    "RelativePath": "api/avaliacao/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.AvaliacaoController",
+    "Method": "Update",
+    "RelativePath": "api/avaliacao/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "avaliacaoDto",
+        "Type": "CursoEstudanteAPI.API.DTOs.AvaliacaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.AvaliacaoController",
+    "Method": "Delete",
+    "RelativePath": "api/avaliacao/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.AvaliacaoController",
+    "Method": "GetAvaliacoesByCurso",
+    "RelativePath": "api/avaliacao/curso/{cursoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cursoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.CursoController",
+    "Method": "GetAll",
+    "RelativePath": "api/curso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.CursoController",
+    "Method": "Create",
+    "RelativePath": "api/curso",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cursoDto",
+        "Type": "CursoEstudanteAPI.API.DTOs.CursoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.CursoController",
+    "Method": "GetById",
+    "RelativePath": "api/curso/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.CursoController",
+    "Method": "Update",
+    "RelativePath": "api/curso/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cursoDto",
+        "Type": "CursoEstudanteAPI.API.DTOs.CursoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.CursoController",
+    "Method": "Delete",
+    "RelativePath": "api/curso/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.EstudanteController",
+    "Method": "GetAll",
+    "RelativePath": "api/estudante",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.EstudanteController",
+    "Method": "Create",
+    "RelativePath": "api/estudante",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudanteDto",
+        "Type": "CursoEstudanteAPI.API.DTOs.EstudanteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.EstudanteController",
+    "Method": "GetById",
+    "RelativePath": "api/estudante/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.EstudanteController",
+    "Method": "Update",
+    "RelativePath": "api/estudante/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "estudanteDto",
+        "Type": "CursoEstudanteAPI.API.DTOs.EstudanteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CursoEstudanteAPI.API.Controller.EstudanteController",
+    "Method": "Delete",
+    "RelativePath": "api/estudante/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
